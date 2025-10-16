@@ -58,6 +58,7 @@ Step 7: Finalize and Export
 
 
 # Output
+![Uploading Screenshot 2025-10-16 134403.png…]()
 
 
 # Result
